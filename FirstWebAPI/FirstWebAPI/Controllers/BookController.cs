@@ -37,3 +37,7 @@ namespace FirstWebAPI.Controllers
         
     }
 }
+//model 
+//repositoryemp
+//controller
+//emp conntroller
